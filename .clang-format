@@ -1,0 +1,4 @@
+BreakBeforeBraces: Attach 
+AllowShortIfStatementsOnASingleLine: false
+IndentCaseLabels: false
+ColumnLimit: 0
